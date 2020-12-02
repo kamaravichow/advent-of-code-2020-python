@@ -1,5 +1,3 @@
-
-
 def subsum_finder_helper(num_list,target):
     # Solve the subset sum problem for two target numbers    
     for item in num_list:
