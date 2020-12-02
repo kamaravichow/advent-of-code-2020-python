@@ -1,6 +1,7 @@
 # advent-of-code-2020-python
 Solutions for Advent of code 2020 in python - [Advent Of Code 2020](https://adventofcode.com/)
-![Thumbnail](https://raw.githubusercontent.com/kamaravichow/advent-of-code-2020-python/blob/main/images.banner.jepg)
+
+![Thumbnail](https://github.com/kamaravichow/advent-of-code-2020-python/raw/main/images/banner.jpeg)
 
 
 ## Solutions
