@@ -36,6 +36,6 @@ for i in range(0, len(cleaned_list)):
 print(cleaned_list)
 
 
-result = str(subsum_finder(cleaned_list,2020,2)) # use num_nums = 2 for the first and num_nums = 3 for the second
+result = str(subsum_finder(cleaned_list,2020,3)) # use num_nums = 2 for the first and num_nums = 3 for the second
 
 print("Solution is : " + result)

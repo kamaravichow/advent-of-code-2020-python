@@ -21,5 +21,3 @@ for item in cleaned_list:
 
 
 print(correct_passwords_count)
-
-
