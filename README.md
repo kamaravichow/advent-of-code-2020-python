@@ -14,8 +14,8 @@ Solutions for Advent of code 2020 in python - [Advent Of Code 2020](https://adve
 - [x] [Day 2 - Part - 2](https://github.com/kamaravichow/advent-of-code-2020-python/blob/main/day2/part2/solution.py)
 
 
-- [ ] [Day 3 - Part - 1](https://github.com/kamaravichow/advent-of-code-2020-python/blob/main/day3/part1/solution.py)
-- [ ] [Day 3 - Part - 2](https://github.com/kamaravichow/advent-of-code-2020-python/blob/main/day3/part2/solution.py)
+- [x] [Day 3 - Part - 1](https://github.com/kamaravichow/advent-of-code-2020-python/blob/main/day3/part1/solution.py)
+- [x] [Day 3 - Part - 2](https://github.com/kamaravichow/advent-of-code-2020-python/blob/main/day3/part2/solution.py)
 
 
 - [ ] [Day 4 - Part - 1](https://github.com/kamaravichow/advent-of-code-2020-python/blob/main/day4/part1/solution.py)
