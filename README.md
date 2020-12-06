@@ -1,4 +1,4 @@
-# advent-of-code-2020-python
+# `Advent of Code` - 2020
 Solutions for Advent of code 2020 in python - [Advent Of Code 2020](https://adventofcode.com/)
 
 ![Thumbnail](https://github.com/kamaravichow/advent-of-code-2020-python/raw/main/images/banner.jpeg)
